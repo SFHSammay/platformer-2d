@@ -1,6 +1,6 @@
 # Platformer2D
 
-A 2D platformer project made with Unity for **Digital Gaming and Learning** in September 2021.
+A single-level 2D platformer project made with Unity for **Digital Gaming and Learning** in September 2021.
 
 This repository contains the Windows playable build.
 
@@ -15,8 +15,14 @@ Run `Platformer2D.exe` on Windows to play.
 
 ## Screenshots
 
-![Start menu](images/startMenu.png)
+<p align="center">
+  <img src="images/startMenu.png" alt="Start menu" width="800">
+</p>
 
-![Gameplay](images/gameplay.png)
+<p align="center">
+  <img src="images/gameplay.png" alt="Gameplay" width="800">
+</p>
 
-![Ending screen](images/endingScreen.png)
+<p align="center">
+  <img src="images/endingScreen.png" alt="Ending screen" width="800">
+</p>
