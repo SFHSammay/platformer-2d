@@ -16,13 +16,13 @@ Run `Platformer2D.exe` on Windows to play.
 ## Screenshots
 
 <p align="center">
-  <img src="images/startMenu.png" alt="Start menu" width="800">
+  <img src="images/startMenu.png" alt="Start menu" width="500">
 </p>
 
 <p align="center">
-  <img src="images/gameplay.png" alt="Gameplay" width="800">
+  <img src="images/gameplay.png" alt="Gameplay" width="500">
 </p>
 
 <p align="center">
-  <img src="images/endingScreen.png" alt="Ending screen" width="800">
+  <img src="images/endingScreen.png" alt="Ending screen" width="500">
 </p>
